@@ -11,4 +11,4 @@ conda install pyg -c pyg
 
 main.py -- GNNExplainer for node classification task
 
-Results are saved in feature_importance.png and subgraph.
+Results are saved in feature_importance.png and subgraph.pdf
